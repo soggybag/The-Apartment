@@ -8,7 +8,9 @@ A film about people living where no one should with people no one can live with.
 
 A rock opera about the horrible places where no one should live, and the terrible people that very unfortunately, still live there.
 
-Set to a new wave rock sound track by Polysics and the Polyphonic Spree.
+## Soundtrack
+
+Although the plot is generally depressing, the music should be balanced between dark (think Tim Burton) and uplifting (think John Williams) to keep viewers at ease. Set to a new wave rock sound track by Polysics and the Polyphonic Spree.
 
 ## Cast
 
