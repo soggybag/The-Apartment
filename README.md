@@ -1,23 +1,27 @@
-# The Aprtment
+# The Apartment
 
 ## Setting
 
-A film about people living where no one should with people no one can live with. 
+A film about people living where no one should with people no one can live with.
 
 ## Synopsis
 
-A rock opera about the amazing places where no one should live, and the people that live there.
+A rock opera about the horrible places where no one should live, and the terrible people that very unfortunately, still live there.
 
-Set to a new wave rock sound track by Polysics. 
+Set to a new wave rock sound track by Polysics and the Polyphonic Spree.
 
 ## Cast
 
-- Wealthy Heiress: Scarlett Johansson
-- Hunky Handyman: Brad Pitt
-- Cynical Landlord: Steve Buscemi
-- Eccentric Neighbor: Lady Gaga
-- Snarky Neighbor Kid: Haley Joel Osment
-- Crusty Wise Old Man: Christopher Guest
-- The cockroach: Linus William Roache
-- The potted plant: Kaneko Shingo
-- Spirit in the fireplace: Ishimaru
+- Wealthy Heiress: Jade Stone
+- Hunky Handyman: Eli'el Gordon
+- Cynical Landlord: Adam Braus
+- Eccentric Neighbor: Alan Davis
+- Snarky Neighbor Kid: Jordan King
+- Crusty Wise Old Man: Mitchell Hudson
+- The cockroach: Jeremy Rossman
+- The potted plant: Mike Kane
+- Spirit in the fireplace: Ashu Desai
+
+## Notes
+
+This sounds like a pretty depressing film with little uplift to redeem the plot. Mitchell, are you feeling okay? Do you need a place to stay?
